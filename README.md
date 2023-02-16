@@ -19,3 +19,8 @@ Although the app is simple, there are many features of MVC applications at play.
 * Implemented design patterns like Abstract Factory Method, Service Layer Pattern, MVC
 
 Debugging the project with breakpoints might be the most useful thing beginners can do to understand the different parts at play.
+
+### Screenshots:
+![list](https://user-images.githubusercontent.com/123747958/219455927-3f8ccf2c-b9d0-4fc7-ae18-d34b17c381b3.png)
+
+![save_movie](https://user-images.githubusercontent.com/123747958/219456015-4d6ea43b-13c7-4753-9297-42f5dfbcc865.png)
