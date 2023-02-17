@@ -16,6 +16,7 @@ Although the app is simple, there are many features of MVC applications at play.
 * Added beans in servlet.xml to pipeline the project with the database
 * Creation of relevant actions for GET and POST scenarios (Add, Update, Delete)
 * The use of Add, Update and Delete to impact records in the database in the respective actions within the `Movie Controller`
+* Added search support (movies can be retrieved using the name or the genre)
 * Implemented design patterns like Abstract Factory Method, Service Layer Pattern, MVC
 
 ### Screenshots:
